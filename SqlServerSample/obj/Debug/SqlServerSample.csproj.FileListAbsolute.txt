@@ -1,0 +1,6 @@
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe.config
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.pdb
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.csprojAssemblyReference.cache
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.exe
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.pdb
